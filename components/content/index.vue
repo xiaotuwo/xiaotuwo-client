@@ -1,7 +1,7 @@
 <template>
   <div class="clearfix content">
     <a-upload
-      action="http://xiaotuwo.getharbours.com/api/files/upload"
+      action="https://xiaotuwo.getharbours.com/api/files/upload"
       list-type="picture-card"
       accept="image/*"
       name="file"
