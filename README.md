@@ -1,24 +1,10 @@
-# antd-demo
+## 小兔窝图床
 
-## Project setup
-```
-npm install
-```
+## 前端地址 
+[https://github.com/xiaotuwo/xiaotuwo-client](https://github.com/xiaotuwo/xiaotuwo-client)
 
-### Compiles and hot-reloads for development
-```
-npm run serve
-```
+## 后端地址
+[https://github.com/xiaotuwo/xiaotuwo-server](https://github.com/xiaotuwo/xiaotuwo-server)
 
-### Compiles and minifies for production
-```
-npm run build
-```
-
-### Lints and fixes files
-```
-npm run lint
-```
-
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
+## 演示地址
+[https://xiaotuwo.github.io](https://xiaotuwo.github.io)

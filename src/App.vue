@@ -19,55 +19,12 @@
 <script>
 import JHeader from "../components/header/index.vue";
 import JFooter from "../components/footer/index.vue";
-import JContnet from './view/content/index.vue'
+import JContnet from "../components/content/index.vue";
 export default {
   components: {
     JHeader, 
     JFooter,
     JContnet
-  },
-  data() {
-    return {
-      previewVisible: false,
-      previewImage: "",
-      fileList: [
-        {
-          uid: "-1",
-          name: "image.png",
-          status: "done",
-          url:
-            "https://zos.alipayobjects.com/rmsportal/jkjgkEfvpUPVyRjUImniVslZfWPnJuuZ.png",
-        },
-        {
-          uid: "-2",
-          name: "image.png",
-          status: "done",
-          url:
-            "https://zos.alipayobjects.com/rmsportal/jkjgkEfvpUPVyRjUImniVslZfWPnJuuZ.png",
-        },
-        {
-          uid: "-3",
-          name: "image.png",
-          status: "done",
-          url:
-            "https://zos.alipayobjects.com/rmsportal/jkjgkEfvpUPVyRjUImniVslZfWPnJuuZ.png",
-        },
-        {
-          uid: "-4",
-          name: "image.png",
-          status: "done",
-          url:
-            "https://zos.alipayobjects.com/rmsportal/jkjgkEfvpUPVyRjUImniVslZfWPnJuuZ.png",
-        },
-        {
-          uid: "-5",
-          name: "image.png",
-          status: "error",
-        },
-      ],
-    };
-  },
-  methods: {
-  },
+  }
 };
 </script>
